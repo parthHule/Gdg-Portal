@@ -6,6 +6,12 @@ A modern registration portal for the Google Developers Event 2025, built with Ne
 
 [https://gdg-theta.vercel.app/](https://gdg-theta.vercel.app/)
 
+## 📊 Registration Data (View Only)
+
+All registration entries (Name, Email, Phone) are stored in a Google Sheet via SheetDB. You can view the data here:
+
+[View Registration Sheet (Google Sheets, read-only)](https://docs.google.com/spreadsheets/d/1kHB3haFDQ4DstiPRLfD43p2C7w2YJoM8-QjcK-s8R1c/edit?usp=sharing)
+
 ## ✨ Features
 - Beautiful, animated registration form
 - Collects Name, Email, and Phone
